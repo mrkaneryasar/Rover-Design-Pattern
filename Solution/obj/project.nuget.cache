@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUvmC7FSEUZHTMaA7kOPKhsLAF8K1Dl1qV4s9cggChzyconEnMjc9Fg8cjXiuDB/nRmlwQU/91a3JY26mwjYfA==",
+  "success": true,
+  "projectFilePath": "/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/rover-design-pattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/yasarkaner/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/yasarkaner/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/yasarkaner/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

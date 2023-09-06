@@ -1,0 +1,14 @@
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/bin/Debug/netcoreapp3.1/rover-design-pattern
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/bin/Debug/netcoreapp3.1/rover-design-pattern.deps.json
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/bin/Debug/netcoreapp3.1/rover-design-pattern.runtimeconfig.json
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/bin/Debug/netcoreapp3.1/rover-design-pattern.runtimeconfig.dev.json
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/bin/Debug/netcoreapp3.1/rover-design-pattern.dll
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/bin/Debug/netcoreapp3.1/rover-design-pattern.pdb
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/obj/Debug/netcoreapp3.1/rover-design-pattern.csproj.AssemblyReference.cache
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/obj/Debug/netcoreapp3.1/rover-design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/obj/Debug/netcoreapp3.1/rover-design-pattern.AssemblyInfoInputs.cache
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/obj/Debug/netcoreapp3.1/rover-design-pattern.AssemblyInfo.cs
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/obj/Debug/netcoreapp3.1/rover-design-pattern.csproj.CoreCompileInputs.cache
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/obj/Debug/netcoreapp3.1/rover-design-pattern.dll
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/obj/Debug/netcoreapp3.1/rover-design-pattern.pdb
+/Users/yasarkaner/Projects/rover-design-pattern/rover-design-pattern/obj/Debug/netcoreapp3.1/rover-design-pattern.genruntimeconfig.cache
